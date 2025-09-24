@@ -1,4 +1,4 @@
-# Environmental-Impact-of-Food-Production-Analysis
+# Environmental-Impact-of-Food-Production-Analysis Project
 Not only has demand for all three increased, but they are also strongly interlinked: food production requires water and energy; traditional energy production demands water resources; agriculture provides a potential energy source. This data focuses on the environmental impacts of food.
 
 Data Loading and Initial Assessment
